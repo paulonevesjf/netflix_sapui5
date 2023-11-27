@@ -1,0 +1,17 @@
+/* Enter your custom styles here */
+.preechimentoBox{
+    background-color: black;
+}
+.corTextoBox{
+    color: white;
+}
+.rodapeTexto{
+    margin-bottom: 5px;
+    padding: 3px;
+}
+
+.margemLogo{
+    position: relative;
+    top: -60px;
+    left: 8px;
+}
